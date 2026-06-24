@@ -27,4 +27,4 @@ Casino operators need real-time visibility into floor revenue, VIP player risk, 
 4. Click **Refresh** to populate the dashboard.
 
 ## Dashboard Preview
-![Casino Operational Performance Dashboard](images/dashboard_preview.png)
+![Casino Operational Performance Dashboard](docs/dashboard_preview.bmp)
