@@ -48,4 +48,5 @@ How to View
 
 Dashboard Preview
 
-![Casino Operational Performance Dashboard](docs/dashboard_preview.bmp)
+![Casino Operational Performance Dashboard](docs/dashboard_preview.bmp) 
+
