@@ -38,7 +38,7 @@ Key Insights
 
 How to View
 
-    Download the repository and open casino_report.pbix in Power BI Desktop.
+    Download the repository and open casino_report.pbix in Power BI Desktop
 
     If the data does not load, go to Transform Data > Data source settings.
 
