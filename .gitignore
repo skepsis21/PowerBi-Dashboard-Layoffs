@@ -1,6 +1,7 @@
-    .venv/
-    __pycache__/
-    .vscode/
-    /casino.db
-    *.log
-    *.tmp
+.venv/
+__pycache__/
+.vscode/
+# Ignore all .db files regardless of where they are
+*.db
+*.log
+*.tmp
